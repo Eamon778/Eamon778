@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eamon778
 - 👀 I’m interested Web design and development
-- 🌱 I’m currently learning Web design with html css tailwind and js
+- 🌱 I’m currently learning MERN STACK with React, Node js, Express js, MongoDB
 - 📫 You can mail me to 'eamonmondol525@gmail.com' or knock me on facebook 'https://www.facebook.com/eamon.rahmaan'
 
 <!---
